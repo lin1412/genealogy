@@ -1,0 +1,3 @@
+consult(genealogy).
+greataunt(X, harry).
+halt.
